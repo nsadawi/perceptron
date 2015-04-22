@@ -13,9 +13,7 @@
  =  it as you wish ONLY for legal and ethical purposes
   
  =  I ask you only, as a professional courtesy, to cite my name, web page 
- 
- =  and my YouTube Channel!
+    and my YouTube Channel!
    
  =    Code adapted from:
- 
- =    https://github.com/RichardKnop/ansi-c-perceptron
+    https://github.com/RichardKnop/ansi-c-perceptron
