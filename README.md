@@ -3,6 +3,9 @@
  =  By Dr Noureddin Sadawi
  
  =  Please watch my youtube videos on perceptron for things to make sense!
+ * Part 1: https://www.youtube.com/watch?v=1XkjVl-j8MM
+ * Part 2: https://www.youtube.com/watch?v=_tMpeah8XGQ
+ * Java Implementation: https://www.youtube.com/watch?v=4aksMtJHWEQ
  
  =  Copyright (C) 2014 
  
